@@ -1,6 +1,6 @@
 # CBDxParkinson
 
-Dans cette base de données, vous trouverez le code R que nous avons utilisé pour l'exploitation des résultats du sondage sur les effets sociaux de l'utilisation du CBD ("code_analyse_sondage.R). Toutes les sorties R obtenues avec ce code sont contenues dans le fichier excel "Exploitation résultats sondage.xlsx". 
+Dans cette base de données, vous trouverez le code R que nous avons utilisé pour l'exploitation des résultats du sondage sur les effets sociaux de l'utilisation du CBD ("code_analyse_sondage.R"). Toutes les sorties R obtenues avec ce code sont contenues dans le fichier excel "Exploitation résultats sondage.xlsx". 
 
 Le fichier "Feuille de calcul du coût annuel.xlsx" contient un calculateur pour le coût moyen annuel et mensuel d'achat d'huile de CBD, selon la dose journalière voulue, le volume d'un flacon et son prix.
 
